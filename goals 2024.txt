@@ -1,0 +1,5 @@
+hal - hal yang ingin dipelajari :
+-HTML
+-javascript
+-react native
+-react js
