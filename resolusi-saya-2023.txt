@@ -3,3 +3,5 @@ ini adalah beberapa goals yang sudah tercapai pada tahun 2023 :
   - saya sudah belajar javascript
   - saya mendpatkan nilai yang baik 
   - saya mengikuti komunitas 
+  - saya sudah menonton film sebanyak 30 judul film di bioskop
+  - saya sudah bahagia
