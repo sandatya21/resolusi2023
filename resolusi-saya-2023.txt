@@ -3,8 +3,9 @@ ini adalah beberapa goals yang sudah tercapai pada tahun 2023 :
   - saya sudah belajar javascript
   - saya mendpatkan nilai yang baik 
   - saya sudah menonton film sebanyak 30 judul film di bioskop
-  - saya sudah bahagia
-
-  - saya sudah berhasil membeli rumah
+  -saya sudah membeli rumah subsidi
+  -saya sudah membeli saham 
+  -saya sudah membeli reksadana
   - saya sudah berhasil membeli mobil
   - saya sudah berhasil membeli emas
+
